@@ -8,4 +8,5 @@ More information of the contest can be found here: https://www.kaggle.com/compet
 
 The model uses data from this challenge and the purpose of the model is the same as the purpose of models submitted to that content. The difference is that this project is mainly for personal learning and will not be submitted to the contest.
 
-
+# Acknoledgement of the data and its license
+The dataset is provided by Deaf Professional Arts Network and the Georgia Institute of Technology is licensed under CC-BY 4.0. A copy of the license can be found here: https://creativecommons.org/licenses/by/4.0/
